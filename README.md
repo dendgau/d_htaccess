@@ -7,3 +7,6 @@
 </VirtualHost>
 ```
 
+# Support regex
+https://www.rexegg.com/regex-quickstart.html
+
